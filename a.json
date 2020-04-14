@@ -1,0 +1,19 @@
+{
+   "diesease": [
+	
+      {
+         "name":"lung cancers",
+         "death rate": "2%",
+         "symptoms": "fever",
+         "prevention": "Herbert Schildt"
+      },
+	
+      {
+         "name":"07",
+         "death rate": "C++",
+         "symptoms": "second",
+         "prevention": "E.Balagurusamy"
+      }
+   ]
+}
+    
